@@ -1,6 +1,6 @@
 
 
-##  Women and Nationalist Discourses
+##  Women in Nationalist Discourses
 
 In addition to colonial discourses, nationalist narratives also constructed female
 Otherness in various other ways. The first generation of African writers, who were predominantly male, produced stereotypical discourses concerning women’s sexuality. For instance, in Achebe’s Things Fall Apart (1959), women may function as objects to be traded by fathers and husbands who have ownership of female bodies. Often portrayed as empty vessels, lacking any desire, in Achebe’s novel, women are “excluded from the political, economic, the judicial, and even the discourse of the community life” (Stratton, 25). Achebe’s depictions of pre-colonial Nigeria as a place with a very systematic economic and social organization might suggest that women did not have any power in that societal organization. 
