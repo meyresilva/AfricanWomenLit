@@ -7,4 +7,12 @@ global through applying the Western experience to the rest of the world. Certain
 
 
 In Africa, the definition of feminism has undergone many interpretations and
-nuances. The Ghanaian writer Ama Ata Aidoo envisages a feminist movement that would seek justice not only for African women but for all African people, suggesting an inclusive movement that could teach people to respect women's rights and integrate all people into the construction of the continent.
+nuances. The Ghanaian writer Ama Ata Aidoo envisages a feminist movement that would seek justice not only for African women but for all African people, suggesting an inclusive movement that could teach people to respect women's rights and integrate all people into the construction of the continent. For her, there is no possibility of African development if women do not take part in the project, as she argues, 
+
+> When people ask me rather bluntly every now and then whether I am a feminist, I not only answer yes, but I go on to insist that every woman and every man should be a > > feminist - especially if they believe that Africans should take charge of African land, African wealth, African lives, and the burden of African
+> development. It is not possible to advocate independence for the African continent without also believing that Africa women must have the best that the environment can > offer. For some of us, this is the crucial element of our feminism. (African
+Woman Today, 39)
+
+
+
+
