@@ -1,5 +1,5 @@
 
-Mariama Bâ's *So Long a Letter*
+##  Mariama Bâ's *So Long a Letter*
 
 
 > Mariama Bâ (April 17, 1929 – August 17, 1981) was a Senegalese author, 
