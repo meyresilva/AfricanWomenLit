@@ -1,6 +1,6 @@
 
 
-## Hayden White's *Tropics of Discourse*
+## Women's History Through Other Lenses
 
 With the transition from the 20th to the 21st century, a period marked by the
 crisis of paradigms, scientists and historians began to lose belief in absolute 
