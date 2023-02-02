@@ -17,5 +17,15 @@ is also something symbolic, that is, from the sphere of mental representation.
 
 
 
+On the one hand, it is obvious that empires were formed through
+military force, starting from the destruction of communities and 
+their economic systems, in addition to the incessant search for wealth,
+on the other, the same empires were established through a less obvious way; 
+their hegemony was also imposed via various symbolic and cultural forms. 
+
+
+
+
+
 
 	
