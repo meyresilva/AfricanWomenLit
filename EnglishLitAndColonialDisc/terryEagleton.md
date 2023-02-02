@@ -30,6 +30,15 @@ colonialist ideals. Thus, tales, memoirs, novels, adventure stories,
 and poetry forged in the metropolis could be consolidated in the colonies.
 
 
+However, what we know today as English literature really 
+began to emerge in the early 19th century. The era of English 
+establishment and the birth of the romantic novel coincide with the 
+height of British imperialism. With the novel, a homogeneous and universal subject
+is constructed in the discursive field. This imperial genre builds a subject that 
+annihilates the Other who does not share the gender, race or class of this universal subject.
+	
+
+
 
 
 
