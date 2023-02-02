@@ -12,3 +12,10 @@ fragments of society’s mosaic. These women struggle to come to terms with the 
 She realizes that feminist ideology cannot be simply transplanted from one context to another. It must be reinvented to suit the needs of women who have to come to terms with multiple constraints such as patriarchal imposition, imperialism, and religious beliefs. 
 
 For Aidoo, writing gives her tolos to educate and transform a community, as she says in an interview, 
+
+> I think part of our responsibility or our commitment as writers is to unfold or open for ourselves
+> and our communities what exists, what is wrong … To state our case in such a way that we would entertain,
+we would inform and perhaps, if we are lucky to be that good, to inspire others. (Ama Ata Aidoo in Interview with
+Nedham 130)
+
+
