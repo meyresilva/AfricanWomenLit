@@ -1,7 +1,7 @@
 ## Introduction
 
 Colonial narratives and nationalist rhetoric in Africa have always associated
-women's bodies with male desire and consumption, aberrance or perversion. While colonial discourses suggested that native women’s bodies should be tamed and possessed, nationalist narratives usually equated female bodies with land, nature, and spirituality. In different ways, hegemonic discourses appropriate the female body and sexuality to convey ideologies concerning the conquest of distant lands
+female sexuality with male desire and consumption, aberrance or perversion. While colonial discourses suggested that native women’s bodies should be tamed and possessed, nationalist narratives usually equated female bodies with land, nature, and spirituality. In different ways, hegemonic discourses appropriate the female body and sexuality to convey ideologies concerning the conquest of distant lands
 or related to the dignity of a national community. 
 
 <p>I examine how African
