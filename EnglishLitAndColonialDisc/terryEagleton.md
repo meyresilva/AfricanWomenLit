@@ -42,7 +42,10 @@ indolent, lazy, contributing to the colonizer’s portrayal as intelligent or ha
 Here, the novel, through the unpretentious goal of entertaining, reiterates colonial power,
 and from there, the colonialist discourse can be better understood. 
 	
-
+Colonialist discourse can be defined as a practice of symbolic events, 
+including texts, conventions and implicit meanings that Europe applied during the process of 
+colonial expansion, in order to understand the bizarre and unintelligible. And, through this 
+discourse, Europe laid bare the Other while guaranteeing its authority (Said, 1993).
 
 
 
