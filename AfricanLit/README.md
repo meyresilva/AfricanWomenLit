@@ -13,11 +13,6 @@ deprived of humanity, as the Nigerian writer Chinua Achebe remarked almost sixty
 later (Achebe 1977).
 
 
-European cultural texts have historically constructed African sexualities as dirty
-and impure. In this sense, Christianity and colonization have linked African female
-sexuality to danger, violence, or death, and “to the missions, excessive African sexuality
-was to be restrained as a salient element of their ‘civilizing mission’ project” (Becker 37).
-
 
 In many ways, colonized women’s bodies needed to be under control as they represented
 a danger to social order, thus stereotypical images of depraved women have long been
