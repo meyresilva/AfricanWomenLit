@@ -16,6 +16,16 @@ By adopting the pseudonym Ken Bugul, Marietou M`Baye is attempting to ensure sur
 >phase of my life in which I had to write or I would die. (Ken Bugul, in Interview
 >with de Larquier 319 )
 
+Bugul’s autobiographical narrative is constructed through the interstices of
+memory and forgetting, a liminal space in the author’s imagination.
+Through imagination, she recreates and rewrites the colonial encounter
+reinserting women’s bodies and sexuality in her historical narrative. 
+
+
+In *Le Baobab Fou* the narrator rewrites the colonial encounter on her own body, a sexualized and racialized body. The narrative is not only about exposure of
+the woman’s body, but also about the unveiling of the post-colonial African woman’s self. It is also a narrative about Africa and the submission the continent has undergone through colonization, as she says,  
+
+
 
 
 
