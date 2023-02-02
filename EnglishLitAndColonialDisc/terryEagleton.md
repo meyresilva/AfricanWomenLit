@@ -24,6 +24,13 @@ on the other, the same empires were established through a less obvious way;
 their hegemony was also imposed via various symbolic and cultural forms. 
 
 
+As effectively as oral language, 
+literature created channels for the imposition of 
+colonialist ideals. Thus, tales, memoirs, novels, adventure stories, 
+and poetry forged in the metropolis could be consolidated in the colonies.
+
+
+
 
 
 
