@@ -1,6 +1,8 @@
 
 
 
+##  The Representation of the *Other* in Literary Narratives
+
 
 For Terry Eagleton, literature maintains an intrinsic
 relationship with issues of social power (Eagleton, 2003:30).
