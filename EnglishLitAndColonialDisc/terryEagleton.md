@@ -47,6 +47,11 @@ including texts, conventions and implicit meanings that Europe applied during th
 colonial expansion, in order to understand the bizarre and unintelligible. And, through this 
 discourse, Europe laid bare the Other while guaranteeing its authority (Said, 1993).
 
+In this sense, we can affirm that the study of English Literature in the colonies was above anything else, 
+primarily political. The spread of the academic discipline was in the service of nationalism. 
+Just as the Monarchy was at the center of the political field, literature occupied the central role in the cultural field. 
+
+
 
 
 
