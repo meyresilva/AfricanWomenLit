@@ -21,3 +21,9 @@ concealing the most important subject of the painting. In his analysis,
 Foucault develops his central argument: all periods of history
 have some fundamental conditions to define what is acceptable as truth in scientific discourses. While some discourses have been considered truthful and valid, others can be taken as witchcraft, magic, or heresy. 
 
+
+Furthermore, Foucault argues that these conditions of discourse change over time through
+general and relative changes in the episteme from one period to another. In his analysis 
+of Las Meninas, he is interested in finding another way of looking. For him, the 
+painting represents conflicting viewpoints, multiple foci, on the relationship between 
+art and reality that involves our own gaze as we put ourselves into the abyss. 
