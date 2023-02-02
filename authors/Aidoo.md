@@ -1,5 +1,5 @@
 
-## Ama Ata Aidoo'S *Changes, A Love Story*
+## Ama Ata Aidoo's *Changes, A Love Story*
 
 
 Ama Ata Aidoo in Changes: A Love Story gives us a female protagonist who
