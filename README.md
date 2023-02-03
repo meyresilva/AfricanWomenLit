@@ -1,4 +1,4 @@
-## Introduction
+## Gender and Sexuality in Works Authored by African Women
 
 Colonial narratives and nationalist rhetoric in Africa have always associated
 female sexuality with male desire and consumption, aberrance or perversion. While colonial discourses suggested that native women’s bodies should be tamed and possessed, nationalist narratives usually equated female bodies with land, nature, and spirituality. In different ways, hegemonic discourses appropriate the female body and sexuality to convey ideologies concerning the conquest of distant lands
