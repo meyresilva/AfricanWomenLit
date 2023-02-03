@@ -1,6 +1,6 @@
 
 
-## Gender and Cultural Production
+## Gender and Race in Works Authored by African Women 
 
 During the nineteenth century sexuality and race functioned as prominent markers
 of Otherness, setting parameters for what was normal and acceptable and what must be
