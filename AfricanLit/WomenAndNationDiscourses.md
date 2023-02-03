@@ -14,3 +14,10 @@ be discovered, entered, named, inseminated, and above all, owned *(McClintock 31
 
 
 
+ During the nineteenth century sexuality and race functioned as prominent markers
+ of Otherness, setting parameters for what was normal and acceptable and what must be
+regulated and brought into normality.
+
+
+
+
