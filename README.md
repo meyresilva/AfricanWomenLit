@@ -19,7 +19,7 @@ the role of literature and the work of art.</p>
 
 
 <p align="center">
-  :dart: <a href="https://github.com/meyresilva/AfricanWomenLit/blob/main/AfricanLit/WomenAndNationDiscourses.md> Read More ...</a>   
+  :dart: <a href="https://github.com/meyresilva/AfricanWomenLit/blob/main/AfricanLit/WomenAndNationDiscourses.md"> Read More ...</a>   
 </p>
 
 
