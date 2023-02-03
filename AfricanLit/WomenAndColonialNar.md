@@ -2,9 +2,6 @@
 ## Stereotypical Images in Conrad's Heart of Darkness
 
 
-During the nineteenth century sexuality and race functioned as prominent markers
-of Otherness, setting parameters for what was normal and acceptable and what must be
-regulated and brought into normality.
 
 In 1898 Joseph Conrad published Heart of
 Darkness, a novel that would become a landmark for colonial studies. The novel emerged
