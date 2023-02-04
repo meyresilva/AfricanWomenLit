@@ -1,7 +1,7 @@
 ## Introduction
 
 In this repository I present some research on gender and sexuality in African women's narratives, including the theoretical framework I relied on to write my doctoral dissertation and articles published in peer-reviewed journals. To start doing research on works authored by African women or women from the global south, it is crucial to get familiar with theory. However, reading 
- theoretical texts, especially on gender studies and postcolonial theory, and black feminisms might be challenging, as they often present often present
+ theoretical texts, especially on gender studies and postcolonial theory, and black feminisms might be challenging, as they often present 
 an almost impenetrable language and a multi-disciplinary approach.  
 
 Having said that, I will design a roadmap for those who want to start doing research. First, I introduce a critique on colonialist and nationalist discourses, often present in women's works, as you see here,
