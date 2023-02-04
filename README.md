@@ -12,7 +12,9 @@ https://github.com/meyresilva/AfricanWomenLit/blob/main/EnglishLitAndColonialDis
 
 
 
-An example of stereotypical images in colonialist narratives, as in Joseph Conrad's *Heart of Darkness*, as in this sample ...
+An example of stereotypical images in colonialist narratives, as in Joseph Conrad's *Heart of Darkness*, as in this sample,
+
+https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ConradHeartDarkness.md
 
 Also, some examples of images of women's bodies in nationalist discourses, as in Chinua Achebe's *Things Fall Apart* .... 
 
