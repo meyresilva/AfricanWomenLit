@@ -1,7 +1,7 @@
 ## Introduction
 
 In this repository I present some research on gender and sexuality in African women's narratives, including the theoretical framework I relied on to write my doctoral dissertation and articles published in peer-reviewed journals. To start working on literature authored by African women or women from the global south, it is crucial to get familiar with theory. However, reading theoretical texts, especially on gender studies, postcolonial theory, and black feminisms might be tough and quite challenging, , even for those who enjoy it, as they often present 
-an almost impenetrable language and a multi-disciplinary approach, spanning a diverse and wide terrain.  
+an almost impenetrable language and a multi-disciplinary approach that encompasses a diverse and wide terrain.  
 
 Having said that, I will design a roadmap for those who want to start doing research. First, I introduce a critique on colonialist and nationalist narratives, focusing on the ways in which some literary critics such as Terry Eagleton, Gayatri Spivak, Firdous Azim, and Anne McClintock examine hegemonic discourses in English Literature, as you see here,
 
