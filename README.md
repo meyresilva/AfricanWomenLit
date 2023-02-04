@@ -22,7 +22,8 @@ https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/WomeninAchebe.md
 
 
 
-Also Black women and postcolonial feminist theories, as you find here, ..
+Also, feminist theories by women from the global south, as you find here, ..
+
 
 In the end, I will examine some selected works authored by African women from several nations to give an aidea of the main themes in these works, as you see here ...
 
