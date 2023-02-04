@@ -15,7 +15,7 @@ Also, some examples of images of women's bodies in nationalist discourses, as in
 
 Black women and postcolonial feminist theories, as you find here, ..
 
-Finally, I will 
+In the end, I will examine some selected works authored by African women from several nations.... 
 
 
 
