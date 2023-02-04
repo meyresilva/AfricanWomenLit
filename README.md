@@ -1,6 +1,6 @@
 ## Introduction
 
-In this repository I will some topics on African Women's literature, including some theoretical framework I used to write my doctoral dissertation and peer-reviewed articles. To start studying works authored by African women or women from the global south, it is crucial to get familiar with theory.
+In this repository I will present some topics on African Women's literature, including some theoretical framework I used to write my doctoral dissertation and peer-reviewed articles. To start studying works authored by African women or women from the global south, it is crucial to get familiar with theory.
 
 Theoretical texts, especially on Gender Studies and Postcolonial Theory often present
 an almost impenetrable language. Thus, reading Gayatry Spivak, bell hooks, anne McClintock might give us a hard time.
