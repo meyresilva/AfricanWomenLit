@@ -8,6 +8,8 @@ Having said that, I will start giving a roadmap for those who want to start doin
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ColandNationDiscourses.md
 
+https://github.com/meyresilva/AfricanWomenLit/blob/main/EnglishLitAndColonialDisc/terryEagleton.md
+
 
 
 An example of stereotypical images in colonialist narratives, as in Joseph Conrad's *Heart of Darkness*, as in this sample ...
