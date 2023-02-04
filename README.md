@@ -16,13 +16,13 @@ An example of stereotypical images in colonialist narratives, as in Joseph Conra
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ConradHeartDarkness.md
 
-Also, some examples of images of women's bodies in nationalist discourses, as in Chinua Achebe's *Things Fall Apart*, as in the text,  
+Some examples of images of women's bodies in nationalist discourses, as in Chinua Achebe's *Things Fall Apart*, as in the text,  
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/WomeninAchebe.md
 
 
 
-Black women and postcolonial feminist theories, as you find here, ..
+Also Black women and postcolonial feminist theories, as you find here, ..
 
 In the end, I will examine some selected works authored by African women from several nations to give an aidea of the main themes in these works, as you see here ...
 
