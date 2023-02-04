@@ -7,10 +7,11 @@ an almost impenetrable language. Thus, reading Gayatry Spivak, bell hooks, anne 
 
 Having said that, I will start giving a roadmap for those who want to start doing research on this field. First, I will present a critique on colonialist and nationalist discourses, often present in works authored by African Women, as you see here .....
 
-Also, I will give an example of colonialist narrative in Joseph Conrad's Heart of Darkness, as in this text...
+Also, I will give some examples of colonialist and nationalist discourses in Joseph Conrad's *Heart of Darkness* and Chinua Achebe's *Things Fall Apart* as in these samples.... 
 
 
-In the end, I will present some Postcolonial feminist theory, as you find here. 
+
+In the end, I will present some theory on gender, black women and postcolonial Feminist theories, as you find here. 
 
 
 
