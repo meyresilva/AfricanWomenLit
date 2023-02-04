@@ -22,10 +22,14 @@ https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/WomeninAchebe.md
 
 
 
-Also, feminist theories by women from the global south, as you find here, ..
+Also, feminist theories by women from the global south, as you find here, 
+
+https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/BlackFeminisms.md
 
 
-In the end, I will examine some selected works authored by African women from several nations to give an aidea of the main themes in these works, as you see here ...
+In the end, I will examine some selected works authored by African women from several nations to give an aidea of the main themes in these works, as you see here, 
+
+
 
 
 
