@@ -31,6 +31,10 @@ In the end, I will examine some selected works authored by African women from se
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md
 
+https://github.com/meyresilva/AfricanWomenLit/edit/main/authors/Aidoo.md
+
+
+
 
 
 
