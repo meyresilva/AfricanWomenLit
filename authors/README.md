@@ -1,4 +1,4 @@
-
+## Introduction
 
 Chimamanda Ngozi Adichie's texts have been part and parceel of what we call pop culture. Everybody has heard Adichie talking about feminisms, her life as a Nigerian woman or her experience as a migrant in the US, her friendship with Beyoncé. Most of us read *Purple Hibiscus*, *Half of a Yellow Sun* or any other of her works, however, a few of us listened to Adichie acknowledging African writers and feminists who inspired her work as Ama Ata Aidoo, Emechetta, and others. 
 
