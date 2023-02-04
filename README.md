@@ -13,7 +13,9 @@ Also, some examples of images of women's bodies in nationalist discourses, as in
 
 
 
-In the end, I will present some theory on gender, black women and postcolonial Feminist theories, as you find here. 
+Black women and postcolonial feminist theories, as you find here, ..
+
+Finally, I will 
 
 
 
