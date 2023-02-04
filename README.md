@@ -35,6 +35,10 @@ https://github.com/meyresilva/AfricanWomenLit/edit/main/authors/Aidoo.md
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md
 
+https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md
+
+
+
 
 
 
