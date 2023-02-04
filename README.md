@@ -4,7 +4,7 @@ In this repository I will present some topics on African women's literature, inc
  theoretical texts, especially on Gender Studies and Postcolonial Theory often present
 an almost impenetrable language and might be challenging. 
 
-Having said that, I will start giving a roadmap for those who want to start doing research. First, a critique on colonialist and nationalist discourses, often present in works authored by African women, as you see here .....
+Having said that, I will start giving a roadmap for those who want to start doing research. First, a critique on colonialist and nationalist discourses, often present in works authored by African women, as you see here,
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ColandNationDiscourses.md
 
