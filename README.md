@@ -1,6 +1,6 @@
 ## Introduction
 
-In this repository I present some topics on African women's literature, including theoretical framework I relied on to write my doctoral dissertation and peer-reviewed   articles. To start studying works authored by African women or women from the global south, it is crucial to get familiar with theory. However, reading 
+In this repository I present some topics on African women's literature, including theoretical framework I relied on to write my doctoral dissertation and peer-reviewed   articles. To start doing research on works authored by African women or women from the global south, it is crucial to get familiar with theory. However, reading 
  theoretical texts, especially on Gender Studies and Postcolonial Theory often present
 an almost impenetrable language and might be challenging. 
 
