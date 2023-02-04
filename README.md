@@ -11,22 +11,22 @@ https://github.com/meyresilva/AfricanWomenLit/blob/main/EnglishLitAndColonialDis
 
 
 
-An example of stereotypical images in colonialist narratives, as in Joseph Conrad's *Heart of Darkness*, as in this sample,
+I provide an example of stereotypical images in colonialist narratives, as in Joseph Conrad's *Heart of Darkness*, as in this sample,
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ConradHeartDarkness.md
 
-Some examples of images of women's bodies in nationalist discourses, as in Chinua Achebe's *Things Fall Apart*, as in the text,  
+Some examples of women's bodies in nationalist discourses, as in Chinua Achebe's *Things Fall Apart*, as in the text,  
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/WomeninAchebe.md
 
 
-
-Also, feminist theories by women from the global south, as you find here, 
+Also, eminist theories by women from the global south, as you find here, 
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/BlackFeminisms.md
 
 
-In the end, I will examine some selected works authored by African women from several nations to give an aidea of the main themes in these narratives, as you see here,
+In the end, I will examine some selected works authored by African women from several nations to give an aidea
+of the main themes in these narratives, as you see here,
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md
 
