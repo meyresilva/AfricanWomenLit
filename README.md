@@ -6,6 +6,10 @@ an almost impenetrable language and might be challenging.
 
 Having said that, I will start giving a roadmap for those who want to start doing research. First, a critique on colonialist and nationalist discourses, often present in works authored by African women, as you see here .....
 
+https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ColandNationDiscourses.md
+
+
+
 An example of stereotypical images in colonialist narratives, as in Joseph Conrad's *Heart of Darkness*, as in this sample ...
 
 Also, some examples of images of women's bodies in nationalist discourses, as in Chinua Achebe's *Things Fall Apart* .... 
