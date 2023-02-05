@@ -5,7 +5,7 @@ an almost impenetrable language and a multi-disciplinary approach that encompass
 
 Having said that, I will design a roadmap for those who want to start doing research. First, I introduce a critique on colonialist and nationalist narratives, focusing on the ways in which some literary critics such as Terry Eagleton, Gayatri Spivak, Firdous Azim, and Anne McClintock examine hegemonic discourses in English Literature, as you see here,
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ColandNationDiscourses.md
+- [Colonialist](https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ColandNationDiscourses.md)
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/EnglishLitAndColonialDisc/terryEagleton.md
 
