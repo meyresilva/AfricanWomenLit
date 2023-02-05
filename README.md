@@ -7,7 +7,7 @@ Having said that, I will design a roadmap for those who want to start doing rese
 
 - [Colonialist](https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ColandNationDiscourses.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/EnglishLitAndColonialDisc/terryEagleton.md
+- [English ](https://github.com/meyresilva/AfricanWomenLit/blob/main/EnglishLitAndColonialDisc/terryEagleton.md)
 
 
 
