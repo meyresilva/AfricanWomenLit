@@ -13,7 +13,7 @@ Also, Some selected works authored by African women from several nations give an
 of the main themes in these narratives.
 
 
- [theory](https://github.com/meyresilva/AfricanWomenLit/tree/main/theory)
+ [theory](https://github.com/meyresilva/AfricanWomenLit/tree/main/authors)
 
 
 
