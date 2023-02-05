@@ -1,42 +1,18 @@
 ## Introduction
 
-In this repository I present some research on gender and sexuality in African women's narratives, including the theoretical framework I relied on to write my doctoral dissertation and articles published in peer-reviewed journals. To start working on literature authored by African women or women from the global south, it is crucial to get familiar with theory. However, reading theoretical texts, especially on gender studies, postcolonial theory, and black feminisms might be tough and quite challenging, even for those who enjoy it, as they often present 
+In this repository I will share my research on gender and sexuality in African women's narratives, including my doctoral dissertation and articles published in peer-reviewed journals. To start working on literature authored by African women or women from the global south, it is crucial to get familiar with theory, however, reading theoretical texts, especially on gender might be tough and quite challenging, even for those who enjoy it, as they often present 
 an almost impenetrable language and a multi-disciplinary approach that encompasses a diverse and wide terrain.  
 
-Having said that, I will design a roadmap for those who want to start doing research. First, I introduce a critique on colonialist and nationalist narratives, focusing on the ways in which some literary critics such as Terry Eagleton, Gayatri Spivak, Firdous Azim, and Anne McClintock examine hegemonic discourses in English Literature, as you see here,
+Having said that, I intend to design a roadmap here for those who want to start doing research on gender and sexuality in Africa or in any other region, especially from the global south. First, I introduce theory, focusing on the ways in which some literary critics such as Terry Eagleton, Gayatri Spivak, Firdous Azim, and Anne McClintock examine hegemonic discourses in literature and cultural production. Some theoretical texts present diverse perspectives on women's condition in African nations or other developing countries, not part of the global north. 
 
 - [Colonialist](https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ColandNationDiscourses.md)
 
 - [English ](https://github.com/meyresilva/AfricanWomenLit/blob/main/EnglishLitAndColonialDisc/terryEagleton.md)
 
 
+Finally, I examine some selected works authored by African women from several nations to give an idea
+of the main themes in these narratives.
 
-I provide an example of stereotypical images in colonialist narratives, as in Joseph Conrad's *Heart of Darkness*, as in this sample,
-
-https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/ConradHeartDarkness.md
-
-Some examples of women's bodies in nationalist discourses, as in Chinua Achebe's *Things Fall Apart*, as in the text,  
-
-https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/WomeninAchebe.md
-
-
-Also, eminist theories by women from the global south, as you find here, 
-
-https://github.com/meyresilva/AfricanWomenLit/blob/main/Theory/BlackFeminisms.md
-
-
-In the end, I will examine some selected works authored by African women from several nations to give an aidea
-of the main themes in these narratives, as you see here,
-
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md
-
-https://github.com/meyresilva/AfricanWomenLit/edit/main/authors/Aidoo.md
-
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md
-
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md
-
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Mariama%20B%C3%A2.md
 
 
 
