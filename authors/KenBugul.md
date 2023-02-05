@@ -6,6 +6,11 @@
 >a major publishing house in Senegal advised Marietou M’Baye to publish her story under a pen name because her autobiography 
 >included revelations that could scandalize the audience in her country. 
 
+<p align="center">
+  <img alt="Ken Bugul Picture" src="https://frenchitalian.washington.edu/sites/frenchitalian/files/styles/large/public/images/kenbugul.jpg?itok=CZ1fNqoy"   />
+  </p>
+
+
 *Le Baobab Fou* is scandalous not only because the female narrator exposes her body and her sexual desires, but also because it makes the reader reflect upon the ways that colonization have affected women living in independent African countries. To publish her story, Marietou M’Baye chose the pseudonym Ken Bugul, a Wolof expression that means “nobody wants it.”
 Ken Bugul is generally a name given to a baby who comes after several miscarriages. Giving this name is a traditional way for parents to protect
 their babies from death, a way to tell the world that nobody wants the newborn, not even God. 
