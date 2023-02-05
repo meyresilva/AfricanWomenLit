@@ -2,6 +2,12 @@
 ## Ama Ata Aidoo's *Changes, A Love Story*
 
 
+
+
+<p align="center">
+  <img width="400" height="264" alt="Aidoo Picture" src="https://i0.wp.com/greenviewsresidential.com/wp-content/uploads/2022/02/Ama-Ata-Aidoo.jpg"  />
+</p>
+
 Ama Ata Aidoo in Changes: A Love Story gives us a female protagonist who
 refuses to be the “African woman” her husband expects. Esi Sekyi defies social
 convention as she defies stereotypes of a woman who must bear children to have status in her society or protect her marriage at all costs. As she claims her rights to control her own body, she chooses to have pleasure with a man she chooses, but she suffers the consequences of her stubbornness. In post-independent Ghana, women’s lives may be changing but not to the point of accommodating Esi’s needs and aspirations. In this novel, Aidoo discusses the ways in which modernity in Ghana affects women’s bodies and minds. The novel complicates feminism and women’s rights and provides many possibilities for the examination of issues such as sexuality, motherhood, marriage, and polygamy. Aidoo portrays the lives of three educated women who struggle to digest modernity.
