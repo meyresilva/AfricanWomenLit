@@ -6,7 +6,9 @@
 > write to exist, I write for me. I exist in the world and my existence is repeated in
 other people. (Chiziane)
 
-
+<p align="center">
+  <img width="265" height="400" src="https://impressoesdemaria.com.br/wp-content/uploads/2021/10/Paulina-Chiziane.jpg" />
+  </p>
 
 Paulina Chiziane published Niketche: Uma Historia de Poligamia (A Story of
 Polygamy) in 2002, eight years after Mozambique's democratic elections. She is the first Mozambican female novelist and one of Africa’s most prominent writers. Born in southern Mozambique in the province of Gaza, Chiziane was six years old when her family moved to the capital city of Lourenço Marques. Though she grew up in a Protestant family, Chiziane attended a Catholic mission school where she learned Portuguese. Besides Chope, her native language learned from her parents and community, she also learned Tonga while living in the colonial capital. She pursued higher education at University Eduardo Mondlane and became a political activist for the socialist party Fremilo, an experience that certainly had a great impact on her literary
