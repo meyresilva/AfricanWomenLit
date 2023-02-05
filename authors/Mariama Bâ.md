@@ -7,6 +7,10 @@
 Her most celebrated work is *Une si longue lettre* , translated into English as *So Long a Letter*.
 
 
+<p align="center">
+   <img alt="Mariama Ba Picture" src="https://1.bp.blogspot.com/-ZaoUKS9VuTE/WO1B78-JyWI/AAAAAAAAAj0/4m-m-bil71gq1f7ZfObF3qE_Qh9n8l4LgCLcB/s1600/Mariama%2BBa.jpg"  />
+</p>
+
 In Mariama Ba’s epistolary novel, the protagonist Rama, a Muslim woman, must undergo a required time of 
 four months and ten days of seclusion after her husband’s death. She profits from this time to write a 
 letter that is sort of a diary and also a way of purging herself. In this letter she reveals secrets
