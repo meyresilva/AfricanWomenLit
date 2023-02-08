@@ -13,3 +13,7 @@ https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Aidoo.md
 https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md
+
+https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md
+
+
