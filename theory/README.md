@@ -17,5 +17,5 @@ Sciences, History and Literature, Sociology and Cultural Studies, thus, focusing
 
 - [Representation of Women in Nationalist Discourses](https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/womenandnationalistdiscourses.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/feminisms.md
+- [Gender Theory](https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/feminisms.md)
 
