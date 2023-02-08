@@ -13,7 +13,7 @@ Sciences, History and Literature, Sociology and Cultural Studies, thus, focusing
 
 - [The Representation of the Colonial Subject in English Literature](https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/englishlitandcolonialistnarratives.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/heartofdarkness.md
+- [Heart of Darkness](https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/heartofdarkness.md)
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/womenandnationalistdiscourses.md
 
