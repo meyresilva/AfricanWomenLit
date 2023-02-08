@@ -6,3 +6,6 @@ Here, I will introduce some writers who started publishing in the seventies or s
 the interference of colonialism and neo-colonialism in women’s lives, women's condition in African nations. These writers subvert 
 and challenge colonial and patriarchal institutions, focusing on their communities 
 while dismantling the representations that still, even with Adichie around, populate history books, literary works, scientific discourses and our imagination.  
+
+
+https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Aidoo.md
