@@ -10,12 +10,12 @@ while dismantling the representations that still, even with Adichie around, popu
 
 - [Ama Ata Aidoo](https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Aidoo.md)
 
-(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md)
+- [Paulina Chiziane](https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md)
 
-(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md)
+- [Ken Bugul](https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md)
 
-(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md)
+- [Werewere Liking](https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md)
 
-(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Mariama%20B%C3%A2.md)
+- [Mariama Bâ](https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Mariama%20B%C3%A2.md)
 
 
