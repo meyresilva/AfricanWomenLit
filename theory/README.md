@@ -9,3 +9,4 @@ These texts here often present a multi-disciplinary approach, including Humaniti
 Sciences, History and Literature, Sociology and Cultural Studies, thus, focusing on women's condition through diverse perspectives.  
 
 
+https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/postcolonialismandgender.md
