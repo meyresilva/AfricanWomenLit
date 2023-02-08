@@ -10,3 +10,5 @@ Sciences, History and Literature, Sociology and Cultural Studies, thus, focusing
 
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/postcolonialismandgender.md
+
+https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/englishlitandcolonialistnarratives.md
