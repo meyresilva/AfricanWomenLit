@@ -16,4 +16,6 @@ https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md
 
+https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Mariama%20B%C3%A2.md
+
 
