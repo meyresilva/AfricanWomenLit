@@ -8,14 +8,14 @@ and challenge colonial and patriarchal institutions, focusing on their communiti
 while dismantling the representations that still, even with Adichie around, populate history books, literary works, scientific discourses and our imagination.  
 
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Aidoo.md
+- [Ama Ata Aidoo](https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Aidoo.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md
+(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md
+(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/KenBugul.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md
+(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Liking.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Mariama%20B%C3%A2.md
+(https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Mariama%20B%C3%A2.md)
 
 
