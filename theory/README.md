@@ -17,3 +17,5 @@ https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/heartofdarkness.m
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/womenandnationalistdiscourses.md
 
+https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/feminisms.md
+
