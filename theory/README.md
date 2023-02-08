@@ -15,7 +15,7 @@ Sciences, History and Literature, Sociology and Cultural Studies, thus, focusing
 
 - [Heart of Darkness](https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/heartofdarkness.md)
 
-https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/womenandnationalistdiscourses.md
+- [Representation of Women in Nationalist Discourses](https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/womenandnationalistdiscourses.md)
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/theory/feminisms.md
 
