@@ -9,3 +9,6 @@ while dismantling the representations that still, even with Adichie around, popu
 
 
 https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Aidoo.md
+
+https://github.com/meyresilva/AfricanWomenLit/blob/main/authors/Chiziane.md
+
